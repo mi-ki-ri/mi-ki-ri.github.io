@@ -21,7 +21,7 @@
         <article class="repo" v-for="repo in filteredRepos">
           <header>
             <h2
-              @click="show(repo.content)"
+              @click="show(repo.title, repo.content)"
               :title="repo.title"
               class="title"
               v-html="repo.title"
@@ -90,8 +90,10 @@
           });
         },
         methods: {
-          show(text) {
+          show(title, text) {
             console.log("show");
+            document.getElementById("ex-dialog-title").innerHTML = "";
+            document.getElementById("ex-dialog-title").innerHTML = title;
             document.getElementById("text").innerHTML = "";
             document.getElementById("text").innerHTML = text;
             document.getElementById("ex-dialog").showModal();
