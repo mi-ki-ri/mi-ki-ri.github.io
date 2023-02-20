@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>art on My New Hugo Site</title>
+    <link>http://example.org/tags/art/</link>
+    <description>Recent content in art on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 16:19:00 +0900</lastBuildDate><atom:link href="http://example.org/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monospace Space</title>
+      <link>http://example.org/repos/monospace-space/</link>
+      <pubDate>Mon, 20 Feb 2023 16:19:00 +0900</pubDate>
+      
+      <guid>http://example.org/repos/monospace-space/</guid>
+      <description>AA などに利用できる、テキストのモノスペースフォントでの見え方を確認できる Web アプリです。</description>
+    </item>
+    
+    <item>
+      <title>Create_phrase_seed_songwriting</title>
+      <link>http://example.org/repos/create_phrase_seed_songwriting/</link>
+      <pubDate>Mon, 20 Feb 2023 15:58:47 +0900</pubDate>
+      
+      <guid>http://example.org/repos/create_phrase_seed_songwriting/</guid>
+      <description>音楽フレーズのタネを生成するスクリプトです。</description>
+    </item>
+    
+    <item>
+      <title>Mondrian_land</title>
+      <link>http://example.org/repos/mondrian_land/</link>
+      <pubDate>Mon, 20 Feb 2023 15:35:44 +0900</pubDate>
+      
+      <guid>http://example.org/repos/mondrian_land/</guid>
+      <description>画家モンドリアンの抽象画風の SVG 画像を大量に並べるだけの Web アプリです。</description>
+    </item>
+    
+  </channel>
+</rss>

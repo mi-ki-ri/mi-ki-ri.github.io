@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app on My New Hugo Site</title>
+    <link>http://example.org/tags/app/</link>
+    <description>Recent content in app on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 16:25:09 +0900</lastBuildDate><atom:link href="http://example.org/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qubey</title>
+      <link>http://example.org/repos/qubey/</link>
+      <pubDate>Mon, 20 Feb 2023 16:25:09 +0900</pubDate>
+      
+      <guid>http://example.org/repos/qubey/</guid>
+      <description>簡易的ドラムマシンです。</description>
+    </item>
+    
+    <item>
+      <title>Nadenadesynth</title>
+      <link>http://example.org/repos/nadenadesynth/</link>
+      <pubDate>Mon, 20 Feb 2023 16:24:29 +0900</pubDate>
+      
+      <guid>http://example.org/repos/nadenadesynth/</guid>
+      <description>Web 画面をタッチすると位置に応じた音がなる Web アプリです。</description>
+    </item>
+    
+    <item>
+      <title>Pomodiary</title>
+      <link>http://example.org/repos/pomodiary/</link>
+      <pubDate>Mon, 20 Feb 2023 16:23:48 +0900</pubDate>
+      
+      <guid>http://example.org/repos/pomodiary/</guid>
+      <description>ポモドーロテクニックを使用した際に日記も書けるというアプリです。</description>
+    </item>
+    
+    <item>
+      <title>Tobantoban</title>
+      <link>http://example.org/repos/tobantoban/</link>
+      <pubDate>Mon, 20 Feb 2023 16:22:59 +0900</pubDate>
+      
+      <guid>http://example.org/repos/tobantoban/</guid>
+      <description>当番決めを支援するランダムシャッフルアプリです。</description>
+    </item>
+    
+    <item>
+      <title>Dummy Table Generator</title>
+      <link>http://example.org/repos/dummy-table-generator/</link>
+      <pubDate>Mon, 20 Feb 2023 16:20:59 +0900</pubDate>
+      
+      <guid>http://example.org/repos/dummy-table-generator/</guid>
+      <description>好きな形式のダミーデータを JSON などで生成できる Web アプリです。</description>
+    </item>
+    
+    <item>
+      <title>Css Logo Generator</title>
+      <link>http://example.org/repos/css-logo-generator/</link>
+      <pubDate>Mon, 20 Feb 2023 16:15:24 +0900</pubDate>
+      
+      <guid>http://example.org/repos/css-logo-generator/</guid>
+      <description>CSS の設定値を変えてカスタムのロゴを作り、それをダウンロードできる Web アプリです。</description>
+    </item>
+    
+    <item>
+      <title>Ev Len.py</title>
+      <link>http://example.org/repos/ev-len.py/</link>
+      <pubDate>Mon, 20 Feb 2023 15:51:55 +0900</pubDate>
+      
+      <guid>http://example.org/repos/ev-len.py/</guid>
+      <description>Google カレンダーから、当日のイベントの数を取得する Python アプリです。</description>
+    </item>
+    
+    <item>
+      <title>Todays Top Mood Spotify Front</title>
+      <link>http://example.org/repos/todays-top-mood-spotify-front/</link>
+      <pubDate>Mon, 20 Feb 2023 15:50:00 +0900</pubDate>
+      
+      <guid>http://example.org/repos/todays-top-mood-spotify-front/</guid>
+      <description>Spotify のトップチャートから楽曲の雰囲気を取得し、表示していたサイトです。
+珍しく react で作っていました。</description>
+    </item>
+    
+    <item>
+      <title>Openai Rubberducking</title>
+      <link>http://example.org/repos/openai-rubberducking/</link>
+      <pubDate>Mon, 20 Feb 2023 15:38:58 +0900</pubDate>
+      
+      <guid>http://example.org/repos/openai-rubberducking/</guid>
+      <description>OpenAI API でラバーダッキングが可能な Web アプリです。
+前に作った Lovely Rubber の進化版と言えるかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>Chordtype</title>
+      <link>http://example.org/repos/chordtype/</link>
+      <pubDate>Mon, 20 Feb 2023 15:36:43 +0900</pubDate>
+      
+      <guid>http://example.org/repos/chordtype/</guid>
+      <description>コード譜作成支援アプリです。
+左に所定の書式でコード譜を書くと、右に画像として表示されダウンロードできるというもの。</description>
+    </item>
+    
+    <item>
+      <title>Lovely Rubber</title>
+      <link>http://example.org/repos/lovely-rubber/</link>
+      <pubDate>Mon, 20 Feb 2023 15:08:35 +0900</pubDate>
+      
+      <guid>http://example.org/repos/lovely-rubber/</guid>
+      <description>rubber ducking web app with cotoha-api チャットによるラバーダッキングを実現する Web アプリです。
+今となっては ChatGPT でやったほうが結果が良いです。</description>
+    </item>
+    
+    <item>
+      <title>My_home_bookmarks_vue_fb</title>
+      <link>http://example.org/repos/my_home_bookmarks_vue_fb/</link>
+      <pubDate>Mon, 20 Feb 2023 15:04:42 +0900</pubDate>
+      
+      <guid>http://example.org/repos/my_home_bookmarks_vue_fb/</guid>
+      <description>ブックマークの整備が大変なので Web アプリにしてみました。
+フロントエンドに Vue(Vite)、バックエンドに Firebase を用いています。</description>
+    </item>
+    
+  </channel>
+</rss>
