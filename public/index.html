@@ -1,15 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="generator" content="Hugo 0.110.0" />
+	<meta name="generator" content="Hugo 0.110.0">
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>RePortfolio</title>
+    <link rel="stylesheet" href="/css/style.css" />
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app" v-text="message">
+      <h1>RePortfolio</h1>
+      <input
+        placeholder="Keyword ex.Python..."
+        type="search"
+        name="my-query"
+        v-model="myQuery"
+      />
+      <main class="main">
+        <article class="repo" v-for="repo in filteredRepos">
+          <header>
+            <h2
+              @click="show(repo.content)"
+              :title="repo.title"
+              class="title"
+              v-html="repo.title"
+            ></h2>
+            <p>
+              <img class="hero" :src="repo.hero" />
+            </p>
+          </header>
+          <ul class="tags">
+            <li
+              @click="myQuery = tag"
+              class="tag"
+              v-for="tag in repo.tags"
+              v-html="tag"
+            ></li>
+          </ul>
+          <p class="date" v-html="new Date(repo.date).toLocaleDateString()"></p>
+        </article>
+      </main>
+      <footer>Copyright &copy; HOTTA Tatsuya 2023~</footer>
+      <dialog id="ex-dialog" aria-labelledby="ex-dialog-title">
+        <h2 id="ex-dialog-title">詳細</h2>
+        <div id="text"></div>
+        <p>
+          <button type="button" onclick="this.closest('dialog').close();">
+            閉じる
+          </button>
+        </p>
+      </dialog>
+    </div>
+
     <script>
       const { createApp } = Vue;
 
@@ -17,7 +61,42 @@
         data() {
           return {
             message: "Hello Vue!",
+            repos: [],
+            myQuery: "",
           };
+        },
+        computed: {
+          filteredRepos() {
+            console.log("fil");
+            if (this.myQuery === "") return this.repos;
+
+            return this.repos.filter((elm) => {
+              if (elm.draft === true) return this.repos;
+              return (
+                JSON.stringify(elm)
+                  .toUpperCase()
+                  .indexOf(this.myQuery.toUpperCase()) != -1
+              );
+            });
+          },
+        },
+        mounted() {
+          fetch("/index.json").then((json) => {
+            json.json().then((arrayobj) => {
+              console.log(arrayobj);
+              for (const obj of arrayobj.data.items) {
+                this.repos.push(obj);
+              }
+            });
+          });
+        },
+        methods: {
+          show(text) {
+            console.log("show");
+            document.getElementById("text").innerHTML = "";
+            document.getElementById("text").innerHTML = text;
+            document.getElementById("ex-dialog").showModal();
+          },
         },
       }).mount("#app");
     </script>

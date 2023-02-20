@@ -2,10 +2,84 @@
   "data" : 
 {
   
-  "count" : "1",
+  "count" : "38",
   "items" : [
   
-  {"content":"\u003cp\u003ehogehoge\u003c/p\u003e\n","date":"2023-02-20T13:18:51+09:00","draft":false,"tags":["python"],"title":"My Openai Playground"}
+  {"content":"\u003cp\u003e簡易的ドラムマシンです。\u003c/p\u003e\n","date":"2023-02-20T16:25:09+09:00","draft":false,"hero":"","tags":["web","app","music"],"title":"Qubey"}
+  
+  , {"content":"\u003cp\u003eWeb 画面をタッチすると位置に応じた音がなる Web アプリです。\u003c/p\u003e\n","date":"2023-02-20T16:24:29+09:00","draft":false,"hero":"","tags":["nuxt","tonejs","web","app","music"],"title":"Nadenadesynth"}
+  
+  , {"content":"\u003cp\u003eポモドーロテクニックを使用した際に日記も書けるというアプリです。\u003c/p\u003e\n","date":"2023-02-20T16:23:48+09:00","draft":false,"hero":"","tags":["app","react","reactnative","pomodoro"],"title":"Pomodiary"}
+  
+  , {"content":"\u003cp\u003e当番決めを支援するランダムシャッフルアプリです。\u003c/p\u003e\n","date":"2023-02-20T16:22:59+09:00","draft":false,"hero":"","tags":["react","reactnative","js","app"],"title":"Tobantoban"}
+  
+  , {"content":"\u003cp\u003ehomebrew cask でダウンロードできるアプリの説明付き一覧です。\u003c/p\u003e\n\u003cp\u003e説明はスクレイピングしました。\u003c/p\u003e\n","date":"2023-02-20T16:21:48+09:00","draft":false,"hero":"","tags":["scraping","python","hugo"],"title":"Awesome Brew Cask Site"}
+  
+  , {"content":"\u003cp\u003e好きな形式のダミーデータを JSON などで生成できる Web アプリです。\u003c/p\u003e\n","date":"2023-02-20T16:20:59+09:00","draft":false,"hero":"","tags":["web","app","vue"],"title":"Dummy Table Generator"}
+  
+  , {"content":"\u003cp\u003eAI 生成した画像からパレットを抜き出すことにより、擬似的にテキストからカラーパレットを作り出すプロジェクトです。\u003c/p\u003e\n","date":"2023-02-20T16:19:54+09:00","draft":false,"hero":"","tags":["python","color"],"title":"Pallete From Generated Image"}
+  
+  , {"content":"\u003cp\u003eAA などに利用できる、テキストのモノスペースフォントでの見え方を確認できる Web アプリです。\u003c/p\u003e\n","date":"2023-02-20T16:19:00+09:00","draft":false,"hero":"","tags":["art","web"],"title":"Monospace Space"}
+  
+  , {"content":"\u003cp\u003e本日が世界のどの休日に当たるのかを知ることができる Web アプリでした。\u003c/p\u003e\n","date":"2023-02-20T16:18:20+09:00","draft":false,"hero":"","tags":["web","firebase"],"title":"Every Little Day Vue"}
+  
+  , {"content":"\u003cp\u003e執筆環境リポジトリです。\u003c/p\u003e\n\u003cp\u003ewatchman などを使い、自動で epub を生成します。\u003c/p\u003e\n","date":"2023-02-20T16:17:27+09:00","draft":false,"hero":"","tags":["python"],"title":"Writing Repository Boilerplate Python"}
+  
+  , {"content":"\u003cp\u003e6 次以内のステップで任意のアーティストからアーティストへ繋がれるか試そうとしたスクリプトです。\u003c/p\u003e\n","date":"2023-02-20T16:16:15+09:00","draft":false,"hero":"","tags":["python","spotify"],"title":"Six Step"}
+  
+  , {"content":"\u003cp\u003eCSS の設定値を変えてカスタムのロゴを作り、それをダウンロードできる Web アプリです。\u003c/p\u003e\n","date":"2023-02-20T16:15:24+09:00","draft":false,"hero":"","tags":["web","app","css","svg"],"title":"Css Logo Generator"}
+  
+  , {"content":"\u003cp\u003eRPG 風の戦闘を再現した Web アプリです。\u003c/p\u003e\n\u003cp\u003eオートバトルです。\u003c/p\u003e\n","date":"2023-02-20T16:14:25+09:00","draft":false,"hero":"","tags":["web","js","game"],"title":"Janken Battle Auto Vanilla Js"}
+  
+  , {"content":"\u003cp\u003e音楽フレーズのタネを生成するスクリプトです。\u003c/p\u003e\n","date":"2023-02-20T15:58:47+09:00","draft":false,"hero":"","tags":["python","art"],"title":"Create_phrase_seed_songwriting"}
+  
+  , {"content":"\u003cp\u003e入力された単語の、色んな言語での同義語を表示するスクリプトです。\u003c/p\u003e\n\u003cp\u003e今となっては ChatGPT に存在意義を奪われています。\u003c/p\u003e\n","date":"2023-02-20T15:56:54+09:00","draft":false,"hero":"","tags":["python","languege"],"title":"Nltk_synonyms_list"}
+  
+  , {"content":"\u003cp\u003ePlaceholder 画像として絵文字を表示する Web アプリです。\u003c/p\u003e\n","date":"2023-02-20T15:55:59+09:00","draft":false,"hero":"","tags":["flask","python"],"title":"Place Emojir"}
+  
+  , {"content":"\u003cp\u003e自分が買った本のカテゴリを取得してワードクラウド表示するスクリプトです。\u003c/p\u003e\n","date":"2023-02-20T15:54:40+09:00","draft":false,"hero":"","tags":["python","scraping","amazon"],"title":"Amazon Kindle Texthero"}
+  
+  , {"content":"\u003cp\u003eキャラクター同士の関係図を出力する Web アプリを作ろうとしていました。\u003c/p\u003e\n","date":"2023-02-20T15:53:24+09:00","draft":false,"hero":"","tags":["web","svg","graph"],"title":"Relationship_graph"}
+  
+  , {"content":"\u003cp\u003eGoogle カレンダーから、当日のイベントの数を取得する Python アプリです。\u003c/p\u003e\n","date":"2023-02-20T15:51:55+09:00","draft":false,"hero":"","tags":["python","app"],"title":"Ev Len.py"}
+  
+  , {"content":"\u003cp\u003eSpotify のトップチャートから楽曲の雰囲気を取得し、表示していたサイトです。\u003c/p\u003e\n\u003cp\u003e珍しく react で作っていました。\u003c/p\u003e\n","date":"2023-02-20T15:50:00+09:00","draft":false,"hero":"","tags":["web","app","react"],"title":"Todays Top Mood Spotify Front"}
+  
+  , {"content":"\u003cp\u003e自分が制作した楽曲のリストを見られる Web サイトです。\u003c/p\u003e\n","date":"2023-02-20T15:48:22+09:00","draft":false,"hero":"","tags":["web","vue"],"title":"My Song Lib"}
+  
+  , {"content":"\u003cp\u003e70%/25%/5%で色を割り振るカラースキームがひと目見て分かるような画像を出力する Python スクリプトです。\u003c/p\u003e\n","date":"2023-02-20T15:46:26+09:00","draft":false,"hero":"","tags":["python","color"],"title":"Basecolor70"}
+  
+  , {"content":"\u003cp\u003eWhisper を用いて歌詞を聞き取り、字幕を出力する Python スクリプトです。\u003c/p\u003e\n","date":"2023-02-20T15:42:42+09:00","draft":false,"hero":"","tags":["whisper","audio","python"],"title":"Srt_lrc_app_python"}
+  
+  , {"content":"\u003cp\u003eなかなか完成版ができない自分のブログです。\u003c/p\u003e\n\u003cp\u003eトピックとしては、tailwind を導入しています。\u003c/p\u003e\n","date":"2023-02-20T15:40:57+09:00","draft":false,"hero":"","tags":["tailwind","hugo","web"],"title":"Hottatatsyta.net"}
+  
+  , {"content":"\u003cp\u003eOpenAI API でラバーダッキングが可能な Web アプリです。\u003c/p\u003e\n\u003cp\u003e前に作った Lovely Rubber の進化版と言えるかもしれません。\u003c/p\u003e\n","date":"2023-02-20T15:38:58+09:00","draft":false,"hero":"","tags":["openai","python","flask","web","app"],"title":"Openai Rubberducking"}
+  
+  , {"content":"\u003cp\u003eいつでもメモできる Chrome 拡張機能です。\u003c/p\u003e\n\u003cp\u003eメモは Fabric.js で表現し、フリーハンドで書き込みできます。\u003c/p\u003e\n","date":"2023-02-20T15:37:40+09:00","draft":false,"hero":"","tags":["js","chrome","fabricjs"],"title":"Gakicho"}
+  
+  , {"content":"\u003cp\u003eコード譜作成支援アプリです。\u003c/p\u003e\n\u003cp\u003e左に所定の書式でコード譜を書くと、右に画像として表示されダウンロードできるというもの。\u003c/p\u003e\n","date":"2023-02-20T15:36:43+09:00","draft":false,"hero":"","tags":["vue","nuxt","web","app"],"title":"Chordtype"}
+  
+  , {"content":"\u003cp\u003e画家モンドリアンの抽象画風の SVG 画像を大量に並べるだけの Web アプリです。\u003c/p\u003e\n","date":"2023-02-20T15:35:44+09:00","draft":false,"hero":"","tags":["art","vue","web","svg"],"title":"Mondrian_land"}
+  
+  , {"content":"\u003cp\u003eOpenAI の API のクイックスタートをちょっと改造して、StableDiffusion のプロンプトを生成できるようにしたプロジェクトです。\u003c/p\u003e\n\u003cp\u003eFlask で書かれていたのでそのまま Flask で表現しました。\u003c/p\u003e\n","date":"2023-02-20T15:34:17+09:00","draft":false,"hero":"","tags":["openai","python","flask"],"title":"Openai Quickstart Python_forstablediffusion"}
+  
+  , {"content":"\u003cp\u003e2022 年のマイベストアルバムを決めるために、自分がマイリストに保存したアルバムを取得したときの Python スクリプトです。\u003c/p\u003e\n","date":"2023-02-20T15:32:49+09:00","draft":false,"hero":"","tags":["spotify","python"],"title":"For My Top Albums 2022"}
+  
+  , {"content":"\u003ch3 id=\"recommend-song-for-pomodoro\"\u003erecommend song for pomodoro\u003c/h3\u003e\n\u003cp\u003eSpotify のレコメンド機能を利用して、ポモドーロテクニックにちょうどよい長さのプレイリストを作成する Python スクリプトです。\u003c/p\u003e\n\u003cp\u003eテンポとジャンルの指定ができます。\u003c/p\u003e\n","date":"2023-02-20T15:30:12+09:00","draft":false,"hero":"","tags":["python","spotify","pomodoro"],"title":"Spotiup"}
+  
+  , {"content":"\u003ch3 id=\"rubber-ducking-web-app-with-cotoha-api\"\u003erubber ducking web app with cotoha-api\u003c/h3\u003e\n\u003cp\u003eチャットによるラバーダッキングを実現する Web アプリです。\u003c/p\u003e\n\u003cp\u003e今となっては ChatGPT でやったほうが結果が良いです。\u003c/p\u003e\n","date":"2023-02-20T15:08:35+09:00","draft":false,"hero":"","tags":["vue","nuxt","web","app","cotoha-api"],"title":"Lovely Rubber"}
+  
+  , {"content":"\u003ch3 id=\"イメージからタグを抽出しそのタグでイメージ生成\"\u003eイメージからタグを抽出しそのタグでイメージ生成\u003c/h3\u003e\n\u003cp\u003edanbooru のタガーライブラリを利用してイメージからタグを生成し、\u003c/p\u003e\n\u003cp\u003eそのタグのイメージを StableDiffusion の img2img で生成します。\u003c/p\u003e\n\u003cp\u003e意外と良い結果になっていた記憶があります。\u003c/p\u003e\n","date":"2023-02-20T15:06:47+09:00","draft":false,"hero":"","tags":["python","stable_diffusion","image"],"title":"Autotag Diffusion"}
+  
+  , {"content":"\u003cp\u003eブックマークの整備が大変なので Web アプリにしてみました。\u003c/p\u003e\n\u003cp\u003eフロントエンドに Vue(Vite)、バックエンドに Firebase を用いています。\u003c/p\u003e\n","date":"2023-02-20T15:04:42+09:00","draft":false,"hero":"","tags":["vue","web","app","firebase"],"title":"My_home_bookmarks_vue_fb"}
+  
+  , {"content":"\u003ch3 id=\"p5-js-practice-repo\"\u003ep5 js practice repo\u003c/h3\u003e\n\u003cp\u003eP5.js はジェネラティブアートなどを作ることができるライブラリです。\u003c/p\u003e\n\u003cp\u003eそれを試すためにリポジトリを作りました。\u003c/p\u003e\n","date":"2023-02-20T15:02:35+09:00","draft":false,"hero":"/imgs/p5-js.png","tags":["p5","js","web"],"title":"P5 Js Practice"}
+  
+  , {"content":"\u003ch3 id=\"my-blog\"\u003emy blog\u003c/h3\u003e\n\u003cp\u003e永遠に工事中の自分のブログです。\u003c/p\u003e\n\u003cp\u003ePython により、Frontmatter を整備する機能がついています。\u003c/p\u003e\n","date":"2023-02-20T14:59:04+09:00","draft":false,"hero":"/imgs/blog.mikiri.net.png","tags":["hugo","web","python"],"title":"Blog.mikiri.net"}
+  
+  , {"content":"\u003ch3 id=\"my-twitter\"\u003emy twitter\u003c/h3\u003e\n\u003cp\u003eTwitter がピンチのときに衝動的に作った個人用ツイッター風ミニブログです。\u003c/p\u003e\n\u003cp\u003e一回の投稿は 2000 文字まで。\u003c/p\u003e\n\u003cp\u003eタグによる絞り込み機能がついています。\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://twitter-clone-6e1ff.web.app/\"\u003eURL\u003c/a\u003e\u003c/p\u003e\n","date":"2023-02-20T14:50:50+09:00","draft":false,"hero":"/imgs/my-twitter.png","tags":["vue","nuxt","web","firebase"],"title":"Tweet.mikiri.net"}
+  
+  , {"content":"\u003ch3 id=\"my-python-scripts-using-openai-api\"\u003eMy Python Scripts Using OpenAI API\u003c/h3\u003e\n\u003cp\u003eOpenAI の API を使っていろいろなことを試しています。\u003c/p\u003e\n\u003cp\u003e例として、テキストを絵文字にするスクリプト、テキストのサマリを返すスクリプト等があります。\u003c/p\u003e\n","date":"2023-02-20T13:18:51+09:00","draft":false,"hero":"/imgs/my-openai-playground.png","tags":["python","openai"],"title":"My Openai Playground"}
   
   ]
 }

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flask on My New Hugo Site</title>
+    <link>http://example.org/tags/flask/</link>
+    <description>Recent content in flask on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 15:55:59 +0900</lastBuildDate><atom:link href="http://example.org/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Place Emojir</title>
+      <link>http://example.org/repos/place-emojir/</link>
+      <pubDate>Mon, 20 Feb 2023 15:55:59 +0900</pubDate>
+      
+      <guid>http://example.org/repos/place-emojir/</guid>
+      <description>Placeholder 画像として絵文字を表示する Web アプリです。</description>
+    </item>
+    
+    <item>
+      <title>Openai Rubberducking</title>
+      <link>http://example.org/repos/openai-rubberducking/</link>
+      <pubDate>Mon, 20 Feb 2023 15:38:58 +0900</pubDate>
+      
+      <guid>http://example.org/repos/openai-rubberducking/</guid>
+      <description>OpenAI API でラバーダッキングが可能な Web アプリです。
+前に作った Lovely Rubber の進化版と言えるかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>Openai Quickstart Python_forstablediffusion</title>
+      <link>http://example.org/repos/openai-quickstart-python_forstablediffusion/</link>
+      <pubDate>Mon, 20 Feb 2023 15:34:17 +0900</pubDate>
+      
+      <guid>http://example.org/repos/openai-quickstart-python_forstablediffusion/</guid>
+      <description>OpenAI の API のクイックスタートをちょっと改造して、StableDiffusion のプロンプトを生成できるようにしたプロジェクトです。
+Flask で書かれていたのでそのまま Flask で表現しました。</description>
+    </item>
+    
+  </channel>
+</rss>
