@@ -1,0 +1,75 @@
+# MY PROJECT LIST on GitHub
+
+- [x]my-openai-playground
+  - My Python Scripts Using OpenAI API
+- [x]tweet.mikiri.net
+  - my twitter
+- [x]blog.mikiri.net
+  - my blog
+- [x]p5-js-practice
+  - p5 js
+- [x]my_home_bookmarks_vue_fb
+  - bookmark manager web app
+- [x]autotag-diffusion
+  - イメージからタグを抽出しそのタグでイメージ生成
+- [x]lovely-rubber
+  - rubber ducking web app with cotoha-api
+- [x]spotiup
+  - python script recomend song for pomodoro
+- [x]for-my-top-albums-2022
+  - python script for get my library
+- [x]openai-quickstart-python_forstablediffusion
+  - make prompts with openai
+- [x]mondrian_land
+  - モンドリアン風の SVG 生成
+- [x]chordtype
+  - コード譜作成支援 Web アプリ
+- [x]gakicho
+  - downloadable canvas with fabric.js
+- [x]openai-rubberducking
+  - rubber ducking web app with openai
+- [x]hottatatsyta.net
+  - official blog
+- [x]srt_lrc_app_python
+  - Whisper で聞き取って歌詞を出力
+- [x]basecolor70
+  - Tiny script for base-assort-accent color scheme
+- [x]my-song-lib
+  - my uploaded songs list
+- [x] todays-top-mood-spotify-front
+  - react web app to visible spotify topchart's mood
+- [x]ev-len.py
+  - to get Google Calender's event length
+- [x]relationship_graph
+  - svg web app with vuejs
+- [x]amazon-kindle-texthero
+  - make texthero image from generated json
+- [x]place-emojir
+  - flask project emoji placeholder image
+- [x]nltk synonyms list
+  - translate library probably uses MyMemory API.
+- [x]create_phrase_seed_songwriting
+  - 音楽フレーズのもとを作る試み
+- [x] janken-battle-auto-vanilla-js
+  - auto battle web app
+- [x] css-logo-generator
+  - logo generator
+- [x]six-step
+  - search spotify related artists
+- [x]writing-repository-boilerplate-python
+  - Download ZIP to your writing task.
+- [x] every-little-day-vue
+  - get holidays from Google
+- [x]monospace-space
+  - create monospace font image
+  - https://mi-ki-ri.github.io/monospace-space/
+- [x]pallete-from-generated-image
+  - color pallete from generated image by deep-daze
+- [x]dummy-table-generator
+  - dummy data generation in web app
+- [x] awesome-brew-cask-site
+  - brew cask でダウンロードできるアプリの 2020 年時点まとめ
+- [x]tobantoban
+- [x]pomodiary
+- [x]nadenadesynth
+- [x]qubey

@@ -1,0 +1,13 @@
+{{ define "response" }}
+{
+  {{ with .Section }}
+  "section" : "{{ . }}",
+  {{ end }}
+  "count" : "{{ len .Site.RegularPages }}",
+  "items" : [
+  {{ range $i, $e := .Site.RegularPages }}
+  {{ if $i }}, {{ end }}{{ .Render "item" }}
+  {{ end }}
+  ]
+}
+{{ end }}

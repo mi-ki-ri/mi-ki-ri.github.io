@@ -1,0 +1,1 @@
+{{- dict "hero" .Params.hero "title" .Title "date" .Date "draft" .Draft "content" .Content "tags" .Params.tags | jsonify -}}
