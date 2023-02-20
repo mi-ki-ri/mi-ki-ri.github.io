@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scraping on My New Hugo Site</title>
-    <link>http://example.org/tags/scraping/</link>
-    <description>Recent content in scraping on My New Hugo Site</description>
+    <title>scraping on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/scraping/</link>
+    <description>Recent content in scraping on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 16:21:48 +0900</lastBuildDate><atom:link href="http://example.org/tags/scraping/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 16:21:48 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/scraping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesome Brew Cask Site</title>
-      <link>http://example.org/repos/awesome-brew-cask-site/</link>
+      <link>https://mi-ki-ri.github.io/repos/awesome-brew-cask-site/</link>
       <pubDate>Mon, 20 Feb 2023 16:21:48 +0900</pubDate>
       
-      <guid>http://example.org/repos/awesome-brew-cask-site/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/awesome-brew-cask-site/</guid>
       <description>homebrew cask でダウンロードできるアプリの説明付き一覧です。
 説明はスクレイピングしました。</description>
     </item>
     
     <item>
       <title>Amazon Kindle Texthero</title>
-      <link>http://example.org/repos/amazon-kindle-texthero/</link>
+      <link>https://mi-ki-ri.github.io/repos/amazon-kindle-texthero/</link>
       <pubDate>Mon, 20 Feb 2023 15:54:40 +0900</pubDate>
       
-      <guid>http://example.org/repos/amazon-kindle-texthero/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/amazon-kindle-texthero/</guid>
       <description>自分が買った本のカテゴリを取得してワードクラウド表示するスクリプトです。</description>
     </item>
     

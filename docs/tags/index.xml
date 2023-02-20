@@ -1,315 +1,315 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/</link>
+    <description>Recent content in Tags on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 16:25:09 +0900</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 16:25:09 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>app</title>
-      <link>http://example.org/tags/app/</link>
+      <link>https://mi-ki-ri.github.io/tags/app/</link>
       <pubDate>Mon, 20 Feb 2023 16:25:09 +0900</pubDate>
       
-      <guid>http://example.org/tags/app/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>http://example.org/tags/music/</link>
+      <link>https://mi-ki-ri.github.io/tags/music/</link>
       <pubDate>Mon, 20 Feb 2023 16:25:09 +0900</pubDate>
       
-      <guid>http://example.org/tags/music/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>http://example.org/tags/web/</link>
+      <link>https://mi-ki-ri.github.io/tags/web/</link>
       <pubDate>Mon, 20 Feb 2023 16:25:09 +0900</pubDate>
       
-      <guid>http://example.org/tags/web/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nuxt</title>
-      <link>http://example.org/tags/nuxt/</link>
+      <link>https://mi-ki-ri.github.io/tags/nuxt/</link>
       <pubDate>Mon, 20 Feb 2023 16:24:29 +0900</pubDate>
       
-      <guid>http://example.org/tags/nuxt/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/nuxt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tonejs</title>
-      <link>http://example.org/tags/tonejs/</link>
+      <link>https://mi-ki-ri.github.io/tags/tonejs/</link>
       <pubDate>Mon, 20 Feb 2023 16:24:29 +0900</pubDate>
       
-      <guid>http://example.org/tags/tonejs/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/tonejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pomodoro</title>
-      <link>http://example.org/tags/pomodoro/</link>
+      <link>https://mi-ki-ri.github.io/tags/pomodoro/</link>
       <pubDate>Mon, 20 Feb 2023 16:23:48 +0900</pubDate>
       
-      <guid>http://example.org/tags/pomodoro/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/pomodoro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>http://example.org/tags/react/</link>
+      <link>https://mi-ki-ri.github.io/tags/react/</link>
       <pubDate>Mon, 20 Feb 2023 16:23:48 +0900</pubDate>
       
-      <guid>http://example.org/tags/react/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactnative</title>
-      <link>http://example.org/tags/reactnative/</link>
+      <link>https://mi-ki-ri.github.io/tags/reactnative/</link>
       <pubDate>Mon, 20 Feb 2023 16:23:48 +0900</pubDate>
       
-      <guid>http://example.org/tags/reactnative/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/reactnative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>http://example.org/tags/js/</link>
+      <link>https://mi-ki-ri.github.io/tags/js/</link>
       <pubDate>Mon, 20 Feb 2023 16:22:59 +0900</pubDate>
       
-      <guid>http://example.org/tags/js/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.org/tags/hugo/</link>
+      <link>https://mi-ki-ri.github.io/tags/hugo/</link>
       <pubDate>Mon, 20 Feb 2023 16:21:48 +0900</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://example.org/tags/python/</link>
+      <link>https://mi-ki-ri.github.io/tags/python/</link>
       <pubDate>Mon, 20 Feb 2023 16:21:48 +0900</pubDate>
       
-      <guid>http://example.org/tags/python/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scraping</title>
-      <link>http://example.org/tags/scraping/</link>
+      <link>https://mi-ki-ri.github.io/tags/scraping/</link>
       <pubDate>Mon, 20 Feb 2023 16:21:48 +0900</pubDate>
       
-      <guid>http://example.org/tags/scraping/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/scraping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vue</title>
-      <link>http://example.org/tags/vue/</link>
+      <link>https://mi-ki-ri.github.io/tags/vue/</link>
       <pubDate>Mon, 20 Feb 2023 16:20:59 +0900</pubDate>
       
-      <guid>http://example.org/tags/vue/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/vue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>color</title>
-      <link>http://example.org/tags/color/</link>
+      <link>https://mi-ki-ri.github.io/tags/color/</link>
       <pubDate>Mon, 20 Feb 2023 16:19:54 +0900</pubDate>
       
-      <guid>http://example.org/tags/color/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/color/</guid>
       <description></description>
     </item>
     
     <item>
       <title>art</title>
-      <link>http://example.org/tags/art/</link>
+      <link>https://mi-ki-ri.github.io/tags/art/</link>
       <pubDate>Mon, 20 Feb 2023 16:19:00 +0900</pubDate>
       
-      <guid>http://example.org/tags/art/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firebase</title>
-      <link>http://example.org/tags/firebase/</link>
+      <link>https://mi-ki-ri.github.io/tags/firebase/</link>
       <pubDate>Mon, 20 Feb 2023 16:18:20 +0900</pubDate>
       
-      <guid>http://example.org/tags/firebase/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spotify</title>
-      <link>http://example.org/tags/spotify/</link>
+      <link>https://mi-ki-ri.github.io/tags/spotify/</link>
       <pubDate>Mon, 20 Feb 2023 16:16:15 +0900</pubDate>
       
-      <guid>http://example.org/tags/spotify/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://example.org/tags/css/</link>
+      <link>https://mi-ki-ri.github.io/tags/css/</link>
       <pubDate>Mon, 20 Feb 2023 16:15:24 +0900</pubDate>
       
-      <guid>http://example.org/tags/css/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>svg</title>
-      <link>http://example.org/tags/svg/</link>
+      <link>https://mi-ki-ri.github.io/tags/svg/</link>
       <pubDate>Mon, 20 Feb 2023 16:15:24 +0900</pubDate>
       
-      <guid>http://example.org/tags/svg/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/svg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>game</title>
-      <link>http://example.org/tags/game/</link>
+      <link>https://mi-ki-ri.github.io/tags/game/</link>
       <pubDate>Mon, 20 Feb 2023 16:14:25 +0900</pubDate>
       
-      <guid>http://example.org/tags/game/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>languege</title>
-      <link>http://example.org/tags/languege/</link>
+      <link>https://mi-ki-ri.github.io/tags/languege/</link>
       <pubDate>Mon, 20 Feb 2023 15:56:54 +0900</pubDate>
       
-      <guid>http://example.org/tags/languege/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/languege/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flask</title>
-      <link>http://example.org/tags/flask/</link>
+      <link>https://mi-ki-ri.github.io/tags/flask/</link>
       <pubDate>Mon, 20 Feb 2023 15:55:59 +0900</pubDate>
       
-      <guid>http://example.org/tags/flask/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>amazon</title>
-      <link>http://example.org/tags/amazon/</link>
+      <link>https://mi-ki-ri.github.io/tags/amazon/</link>
       <pubDate>Mon, 20 Feb 2023 15:54:40 +0900</pubDate>
       
-      <guid>http://example.org/tags/amazon/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/amazon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph</title>
-      <link>http://example.org/tags/graph/</link>
+      <link>https://mi-ki-ri.github.io/tags/graph/</link>
       <pubDate>Mon, 20 Feb 2023 15:53:24 +0900</pubDate>
       
-      <guid>http://example.org/tags/graph/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>audio</title>
-      <link>http://example.org/tags/audio/</link>
+      <link>https://mi-ki-ri.github.io/tags/audio/</link>
       <pubDate>Mon, 20 Feb 2023 15:42:42 +0900</pubDate>
       
-      <guid>http://example.org/tags/audio/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>whisper</title>
-      <link>http://example.org/tags/whisper/</link>
+      <link>https://mi-ki-ri.github.io/tags/whisper/</link>
       <pubDate>Mon, 20 Feb 2023 15:42:42 +0900</pubDate>
       
-      <guid>http://example.org/tags/whisper/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/whisper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tailwind</title>
-      <link>http://example.org/tags/tailwind/</link>
+      <link>https://mi-ki-ri.github.io/tags/tailwind/</link>
       <pubDate>Mon, 20 Feb 2023 15:40:57 +0900</pubDate>
       
-      <guid>http://example.org/tags/tailwind/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/tailwind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>openai</title>
-      <link>http://example.org/tags/openai/</link>
+      <link>https://mi-ki-ri.github.io/tags/openai/</link>
       <pubDate>Mon, 20 Feb 2023 15:38:58 +0900</pubDate>
       
-      <guid>http://example.org/tags/openai/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/openai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chrome</title>
-      <link>http://example.org/tags/chrome/</link>
+      <link>https://mi-ki-ri.github.io/tags/chrome/</link>
       <pubDate>Mon, 20 Feb 2023 15:37:40 +0900</pubDate>
       
-      <guid>http://example.org/tags/chrome/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/chrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fabricjs</title>
-      <link>http://example.org/tags/fabricjs/</link>
+      <link>https://mi-ki-ri.github.io/tags/fabricjs/</link>
       <pubDate>Mon, 20 Feb 2023 15:37:40 +0900</pubDate>
       
-      <guid>http://example.org/tags/fabricjs/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/fabricjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cotoha-api</title>
-      <link>http://example.org/tags/cotoha-api/</link>
+      <link>https://mi-ki-ri.github.io/tags/cotoha-api/</link>
       <pubDate>Mon, 20 Feb 2023 15:08:35 +0900</pubDate>
       
-      <guid>http://example.org/tags/cotoha-api/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/cotoha-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image</title>
-      <link>http://example.org/tags/image/</link>
+      <link>https://mi-ki-ri.github.io/tags/image/</link>
       <pubDate>Mon, 20 Feb 2023 15:06:47 +0900</pubDate>
       
-      <guid>http://example.org/tags/image/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stable_diffusion</title>
-      <link>http://example.org/tags/stable_diffusion/</link>
+      <link>https://mi-ki-ri.github.io/tags/stable_diffusion/</link>
       <pubDate>Mon, 20 Feb 2023 15:06:47 +0900</pubDate>
       
-      <guid>http://example.org/tags/stable_diffusion/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/stable_diffusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>p5</title>
-      <link>http://example.org/tags/p5/</link>
+      <link>https://mi-ki-ri.github.io/tags/p5/</link>
       <pubDate>Mon, 20 Feb 2023 15:02:35 +0900</pubDate>
       
-      <guid>http://example.org/tags/p5/</guid>
+      <guid>https://mi-ki-ri.github.io/tags/p5/</guid>
       <description></description>
     </item>
     

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tailwind on My New Hugo Site</title>
-    <link>http://example.org/tags/tailwind/</link>
-    <description>Recent content in tailwind on My New Hugo Site</description>
+    <title>tailwind on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/tailwind/</link>
+    <description>Recent content in tailwind on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 15:40:57 +0900</lastBuildDate><atom:link href="http://example.org/tags/tailwind/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 15:40:57 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/tailwind/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hottatatsyta.net</title>
-      <link>http://example.org/repos/hottatatsyta.net/</link>
+      <link>https://mi-ki-ri.github.io/repos/hottatatsyta.net/</link>
       <pubDate>Mon, 20 Feb 2023 15:40:57 +0900</pubDate>
       
-      <guid>http://example.org/repos/hottatatsyta.net/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/hottatatsyta.net/</guid>
       <description>なかなか完成版ができない自分のブログです。
 トピックとしては、tailwind を導入しています。</description>
     </item>

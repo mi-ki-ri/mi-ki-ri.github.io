@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>firebase on My New Hugo Site</title>
-    <link>http://example.org/tags/firebase/</link>
-    <description>Recent content in firebase on My New Hugo Site</description>
+    <title>firebase on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/firebase/</link>
+    <description>Recent content in firebase on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 16:18:20 +0900</lastBuildDate><atom:link href="http://example.org/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 16:18:20 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Every Little Day Vue</title>
-      <link>http://example.org/repos/every-little-day-vue/</link>
+      <link>https://mi-ki-ri.github.io/repos/every-little-day-vue/</link>
       <pubDate>Mon, 20 Feb 2023 16:18:20 +0900</pubDate>
       
-      <guid>http://example.org/repos/every-little-day-vue/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/every-little-day-vue/</guid>
       <description>本日が世界のどの休日に当たるのかを知ることができる Web アプリでした。</description>
     </item>
     
     <item>
       <title>My_home_bookmarks_vue_fb</title>
-      <link>http://example.org/repos/my_home_bookmarks_vue_fb/</link>
+      <link>https://mi-ki-ri.github.io/repos/my_home_bookmarks_vue_fb/</link>
       <pubDate>Mon, 20 Feb 2023 15:04:42 +0900</pubDate>
       
-      <guid>http://example.org/repos/my_home_bookmarks_vue_fb/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/my_home_bookmarks_vue_fb/</guid>
       <description>ブックマークの整備が大変なので Web アプリにしてみました。
 フロントエンドに Vue(Vite)、バックエンドに Firebase を用いています。</description>
     </item>
     
     <item>
       <title>Tweet.mikiri.net</title>
-      <link>http://example.org/repos/tweet.mikiri.net/</link>
+      <link>https://mi-ki-ri.github.io/repos/tweet.mikiri.net/</link>
       <pubDate>Mon, 20 Feb 2023 14:50:50 +0900</pubDate>
       
-      <guid>http://example.org/repos/tweet.mikiri.net/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/tweet.mikiri.net/</guid>
       <description>my twitter Twitter がピンチのときに衝動的に作った個人用ツイッター風ミニブログです。
 一回の投稿は 2000 文字まで。
 タグによる絞り込み機能がついています。

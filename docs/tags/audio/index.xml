@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>audio on My New Hugo Site</title>
-    <link>http://example.org/tags/audio/</link>
-    <description>Recent content in audio on My New Hugo Site</description>
+    <title>audio on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/audio/</link>
+    <description>Recent content in audio on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 15:42:42 +0900</lastBuildDate><atom:link href="http://example.org/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 15:42:42 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Srt_lrc_app_python</title>
-      <link>http://example.org/repos/srt_lrc_app_python/</link>
+      <link>https://mi-ki-ri.github.io/repos/srt_lrc_app_python/</link>
       <pubDate>Mon, 20 Feb 2023 15:42:42 +0900</pubDate>
       
-      <guid>http://example.org/repos/srt_lrc_app_python/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/srt_lrc_app_python/</guid>
       <description>Whisper を用いて歌詞を聞き取り、字幕を出力する Python スクリプトです。</description>
     </item>
     

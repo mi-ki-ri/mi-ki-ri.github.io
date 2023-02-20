@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>openai on My New Hugo Site</title>
-    <link>http://example.org/tags/openai/</link>
-    <description>Recent content in openai on My New Hugo Site</description>
+    <title>openai on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/openai/</link>
+    <description>Recent content in openai on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 15:38:58 +0900</lastBuildDate><atom:link href="http://example.org/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 15:38:58 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/openai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Openai Rubberducking</title>
-      <link>http://example.org/repos/openai-rubberducking/</link>
+      <link>https://mi-ki-ri.github.io/repos/openai-rubberducking/</link>
       <pubDate>Mon, 20 Feb 2023 15:38:58 +0900</pubDate>
       
-      <guid>http://example.org/repos/openai-rubberducking/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/openai-rubberducking/</guid>
       <description>OpenAI API でラバーダッキングが可能な Web アプリです。
 前に作った Lovely Rubber の進化版と言えるかもしれません。</description>
     </item>
     
     <item>
       <title>Openai Quickstart Python_forstablediffusion</title>
-      <link>http://example.org/repos/openai-quickstart-python_forstablediffusion/</link>
+      <link>https://mi-ki-ri.github.io/repos/openai-quickstart-python_forstablediffusion/</link>
       <pubDate>Mon, 20 Feb 2023 15:34:17 +0900</pubDate>
       
-      <guid>http://example.org/repos/openai-quickstart-python_forstablediffusion/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/openai-quickstart-python_forstablediffusion/</guid>
       <description>OpenAI の API のクイックスタートをちょっと改造して、StableDiffusion のプロンプトを生成できるようにしたプロジェクトです。
 Flask で書かれていたのでそのまま Flask で表現しました。</description>
     </item>
     
     <item>
       <title>My Openai Playground</title>
-      <link>http://example.org/repos/my-openai-playground/</link>
+      <link>https://mi-ki-ri.github.io/repos/my-openai-playground/</link>
       <pubDate>Mon, 20 Feb 2023 13:18:51 +0900</pubDate>
       
-      <guid>http://example.org/repos/my-openai-playground/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/my-openai-playground/</guid>
       <description>My Python Scripts Using OpenAI API OpenAI の API を使っていろいろなことを試しています。
 例として、テキストを絵文字にするスクリプト、テキストのサマリを返すスクリプト等があります。</description>
     </item>

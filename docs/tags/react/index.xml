@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>react on My New Hugo Site</title>
-    <link>http://example.org/tags/react/</link>
-    <description>Recent content in react on My New Hugo Site</description>
+    <title>react on RePortfolio</title>
+    <link>https://mi-ki-ri.github.io/tags/react/</link>
+    <description>Recent content in react on RePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 16:23:48 +0900</lastBuildDate><atom:link href="http://example.org/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 16:23:48 +0900</lastBuildDate><atom:link href="https://mi-ki-ri.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pomodiary</title>
-      <link>http://example.org/repos/pomodiary/</link>
+      <link>https://mi-ki-ri.github.io/repos/pomodiary/</link>
       <pubDate>Mon, 20 Feb 2023 16:23:48 +0900</pubDate>
       
-      <guid>http://example.org/repos/pomodiary/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/pomodiary/</guid>
       <description>ポモドーロテクニックを使用した際に日記も書けるというアプリです。</description>
     </item>
     
     <item>
       <title>Tobantoban</title>
-      <link>http://example.org/repos/tobantoban/</link>
+      <link>https://mi-ki-ri.github.io/repos/tobantoban/</link>
       <pubDate>Mon, 20 Feb 2023 16:22:59 +0900</pubDate>
       
-      <guid>http://example.org/repos/tobantoban/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/tobantoban/</guid>
       <description>当番決めを支援するランダムシャッフルアプリです。</description>
     </item>
     
     <item>
       <title>Todays Top Mood Spotify Front</title>
-      <link>http://example.org/repos/todays-top-mood-spotify-front/</link>
+      <link>https://mi-ki-ri.github.io/repos/todays-top-mood-spotify-front/</link>
       <pubDate>Mon, 20 Feb 2023 15:50:00 +0900</pubDate>
       
-      <guid>http://example.org/repos/todays-top-mood-spotify-front/</guid>
+      <guid>https://mi-ki-ri.github.io/repos/todays-top-mood-spotify-front/</guid>
       <description>Spotify のトップチャートから楽曲の雰囲気を取得し、表示していたサイトです。
 珍しく react で作っていました。</description>
     </item>

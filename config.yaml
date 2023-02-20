@@ -1,9 +1,11 @@
-baseURL: "http://example.org/"
+baseURL: "https://mi-ki-ri.github.io/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "RePortfolio"
 theme: "reportfolio"
 taxonomies:
   tag: "tags"
+
+publishDir: "docs"
 
 mediaTypes:
   application/json:
