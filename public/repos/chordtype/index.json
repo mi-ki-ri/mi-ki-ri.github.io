@@ -1,3 +1,0 @@
-{
-  "data" :  {"content":"\u003cp\u003eコード譜作成支援アプリです。\u003c/p\u003e\n\u003cp\u003e左に所定の書式でコード譜を書くと、右に画像として表示されダウンロードできるというもの。\u003c/p\u003e\n","date":"2023-02-20T15:36:43+09:00","draft":false,"hero":"","tags":["vue","nuxt","web","app"],"title":"Chordtype"} 
-}

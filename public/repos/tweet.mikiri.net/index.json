@@ -1,3 +1,0 @@
-{
-  "data" :  {"content":"\u003ch3 id=\"my-twitter\"\u003emy twitter\u003c/h3\u003e\n\u003cp\u003eTwitter がピンチのときに衝動的に作った個人用ツイッター風ミニブログです。\u003c/p\u003e\n\u003cp\u003e一回の投稿は 2000 文字まで。\u003c/p\u003e\n\u003cp\u003eタグによる絞り込み機能がついています。\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://twitter-clone-6e1ff.web.app/\"\u003eURL\u003c/a\u003e\u003c/p\u003e\n","date":"2023-02-20T14:50:50+09:00","draft":false,"hero":"/imgs/my-twitter.png","tags":["vue","nuxt","web","firebase"],"title":"Tweet.mikiri.net"} 
-}
